@@ -1,0 +1,22 @@
+{
+  "canciones": [
+    {
+      "id": "1",
+      "titulo": "Canción 1",
+      "artista": "Artista 1",
+      "tono": "bm"
+    },
+    {
+      "id": 2,
+      "titulo": "Canción 2",
+      "artista": "Artista 2",
+      "tono": "cm"
+    },
+    {
+      "id": 3,
+      "titulo": "Canción 3",
+      "artista": "Artista 3",
+      "tono": "g"
+    }
+  ]
+}
